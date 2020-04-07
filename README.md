@@ -1,3 +1,4 @@
+check conflict merge bw mstr and tst
 # git-test
 
 ##intro
