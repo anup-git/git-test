@@ -1,6 +1,6 @@
 check conflict merge bw mstr and tst
 # git-test
-
+check conflict merge in master branch 
 ##intro
 simple test for diff .
 line 2 added for intro
