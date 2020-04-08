@@ -9,5 +9,6 @@ Purppose is to learn ,find new things
 ##CHCK mrg conflict in different branches issue
 ##TASKS 
 new task head
+##check the pull github
 ##conclusion
 conclude check
